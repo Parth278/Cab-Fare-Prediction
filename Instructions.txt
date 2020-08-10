@@ -1,0 +1,7 @@
+********Instructions***********
+
+Please run R file in R Studio as I have developed it in the same.
+Python code is developed in Jupyter Notebook, so you can use Jupyter notebook to run the code.
+
+
+*************** THANK YOU ****************
